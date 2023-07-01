@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Luotianyi Friwork Fabric MOD
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+add 4 firework rocket:
+- luotianyi:luo_firework_rocket1 : म
+- luotianyi:luo_firework_rocket2 : signature
+- luotianyi:luo_firework_rocket3 : a image
+- luotianyi:luo_firework_rocket4 : ♾
