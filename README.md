@@ -1,4 +1,4 @@
-# Luotianyi Friwork Fabric MOD
+# Luotianyi Firework Fabric MOD
 add 4 firework rocket:
 - luotianyi:luo_firework_rocket1 : म
   ![](assets/3.png)
